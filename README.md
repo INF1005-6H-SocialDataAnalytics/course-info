@@ -70,7 +70,7 @@ As stated in the iSchool’s Grade Interpretation Guidelines, “work that is no
 ### Academic integrity
 
 Please consult the University’s site on [Academic Integrity](http://academicintegrity.utoronto.ca/). The iSchool has a zero-tolerance policy on plagiarism as defined in section B.I.1.(d) of the [University’s Code of Behaviour on Academic Matters](http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/ppjun011995.pdf).  You should acquaint yourself with the Code. Please review the material in Cite it Right and if you require further clarification, consult the site [How Not to Plagiarize](http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize). 
-Cite it Right covers relevant parts of the U of T Code of Behaviour on Academic Matters (1995). It is expected that all iSchool students take the Cite it Right workshop and the online quiz. Completion of the online Cite it Right quiz should be made prior to the second week of classes. To review and complete the workshop, visit the orientation portion of the [iSkills site](uoft.me/iskills).
+Cite it Right covers relevant parts of the U of T Code of Behaviour on Academic Matters (1995). It is expected that all iSchool students take the Cite it Right workshop and the online quiz. Completion of the online Cite it Right quiz should be made prior to the second week of classes. To review and complete the workshop, visit the orientation portion of the [iSkills site](http://uoft.me/iskills).
 
 ### Accommodations
 
