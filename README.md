@@ -11,7 +11,6 @@
 
 1. [Course Description](#course-description)
 2. [Course Requirements and Grading](#course-requirements-and-grading)
-3. [Grading](#grading)
 4. [Procedures and Rules](#procedures-and-rules)
 5. [Schedule](#schedule)
 
