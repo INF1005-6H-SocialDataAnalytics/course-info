@@ -2,10 +2,9 @@
 
 - Instructor: Professor Alex Hanna 
 - Instructor Email: alex.hanna@utoronto.ca
-- Office: CC 3083
-- Meetings: Thursday, 1 - 4 PM
+- Meetings: Thursday, 1-4 PM
 - Location: TBA
-- Office hours: TBA
+- Office hours: Before class, or by appointment
 - Course website: https://github.com/INF1005-6H-SocialDataAnalytics
 
 ### Table of Contents
