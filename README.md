@@ -79,7 +79,7 @@ Students with diverse learning styles and needs are welcome in this course. If y
 
 - Week 1
     - Introduction to the course
-    - [Lab setup, introduction to Python](../../lab01)
+    - [Lab setup, introduction to Python](../../../lab01)
 - Week 2
     - [Data cleaning](../lab02)
 - Week 3
