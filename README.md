@@ -81,15 +81,15 @@ Students with diverse learning styles and needs are welcome in this course. If y
     - Introduction to the course
     - [Lab setup, introduction to Python](../../../lab01)
 - Week 2
-    - [Data cleaning](../lab02)
+    - [Data cleaning](../../../lab02)
 - Week 3
-    - [Data manipulation](../lab03)
+    - [Data manipulation](../../../lab03)
 - Week 4
-    - [Data modeling and visualisation](../lab04)
+    - [Data modeling and visualisation](../../../lab04)
 - Week 5
-    - [Web scraping and APIs](../lab05)
+    - [Web scraping and APIs](../../../lab05)
 - Week 6
-    - [Automated textual analysis and social network analysis](../lab06)
+    - [Automated textual analysis and social network analysis](../../../lab06)
 
 
 
