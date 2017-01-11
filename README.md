@@ -2,9 +2,9 @@
 
 - Instructor: Professor Alex Hanna 
 - Instructor Email: alex.hanna@utoronto.ca
-- Meetings: Thursday, 1-4 PM
-- Location: TBA
-- Office hours: Before class, or by appointment
+- Meetings: Thursday, 1 - 4 PM
+- Location: BL 325
+- Office hours: By appointment
 - Course website: https://github.com/INF1005-6H-SocialDataAnalytics
 
 ### Table of Contents
@@ -13,7 +13,6 @@
 2. [Course Requirements and Grading](#course-requirements-and-grading)
 4. [Procedures and Rules](#procedures-and-rules)
 5. [Schedule](#schedule)
-
 
 ## Course Description
 
@@ -51,7 +50,6 @@ Social Data Analytics and related fields are becoming a fundamental practice in 
 Attendance in this class is mandatory. Classes will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistants and myself.
 
 **Assignments**
-
 In addition to completing lab portions of this course, you will also complete two assignments to be completed on your own time. Details on the assignments will be posted to the course website.
 
 ### Grading
@@ -61,6 +59,10 @@ In addition to completing lab portions of this course, you will also complete tw
 - Assignment 2: 40%
 
 ## Procedures and Rules
+
+### Instructor Availability
+
+I usually answer email within 48 hours, Monday to Friday. I do not answer email after 5 PM. Lengthy discussions about assignments, readings, concepts and other issues should be held during scheduled appointments.
 
 ### Writing Support
 
@@ -77,20 +79,19 @@ Students with diverse learning styles and needs are welcome in this course. If y
 
 ## Schedule
 
-- Week 1
+- Week 1 (1005: 1/13, 1006: 3/2)
     - Introduction to the course
     - [Lab setup, introduction to Python](../../../lab01)
-- Week 2
+- Week 2 (1005: 1/20, 1006: 3/9)
     - [Data cleaning](../../../lab02)
-- Week 3
+- Week 3 (1005: 1/27, 1006: 3/16)
     - [Data manipulation](../../../lab03)
-- Week 4
+- Week 4 (1005: 2/2, 1006: 3/23)
     - [Data modeling and visualisation](../../../lab04)
-- Week 5
+    - Assignment 1 due
+- Week 5 (1005: 2/9, 1006: 3/30)
     - [Web scraping and APIs](../../../lab05)
-- Week 6
+- Week 6 (1005: 2/16, 1006: 4/6)
     - [Automated textual analysis and social network analysis](../../../lab06)
-
-
-
+    - Assignment 2 due
 
