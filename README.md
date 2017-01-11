@@ -95,3 +95,18 @@ Students with diverse learning styles and needs are welcome in this course. If y
     - [Automated textual analysis and social network analysis](../../../lab06)
     - Assignment 2 due
 
+## Additional resources
+
+If you want to learn more about the tools we're using in this class, there's a good deal of documentation on the web. 
+
+- Markdown
+    - [Markdown documentation](https://daringfireball.net/projects/markdown/syntax)
+- Project Jupyter
+    - [Documentation](http://jupyter.readthedocs.io/en/latest/index.html)
+    - [Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
+- Python
+    - [Python 3.5 documentation](https://docs.python.org/3.5/library/index.html)
+    - [Tutorial](https://docs.python.org/3.5/tutorial/index.html?highlight=tutorial)
+- Pandas and NumPy
+    - [Pandas documentation](http://pandas.pydata.org/)
+    - [NumPy Tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
