@@ -1,4 +1,4 @@
-# INF1005H and INF1006H - Social Data Analytics, Winter 2016
+# INF1005H and INF1006H - Social Data Analytics, Winter 2017
 
 - Instructor: Professor Alex Hanna 
 - Instructor Email: alex.hanna@utoronto.ca
