@@ -87,7 +87,7 @@ Students with diverse learning styles and needs are welcome in this course. If y
 - Week 3 (1005: 1/27, 1006: 3/16)
     - [Data manipulation](../../../lab03)
 - Week 4 (1005: 2/2, 1006: 3/23)
-    - [Web scraping and APIs](../../../lab05)
+    - [Web scraping and APIs](../../../lab04)
     - Assignment 1 due
 - Week 5 (1005: 2/9, 1006: 3/30)
     - [Data modeling and visualisation](../../../lab05)
